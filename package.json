@@ -1,0 +1,23 @@
+{
+  "name": "node_mail",
+  "version": "1.0.0",
+  "description": "This server is send message when catch the mail.",
+  "main": "index.js",
+  "dependencies": {
+    "inbox": "^1.1.59"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavieStox/node_mail.git"
+  },
+  "author": "naviestox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavieStox/node_mail/issues"
+  },
+  "homepage": "https://github.com/NavieStox/node_mail#readme"
+}
